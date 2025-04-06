@@ -1,0 +1,4 @@
+data/*
+maps/*
+*.pth
+__pycache__
